@@ -13,6 +13,7 @@
 		4B2FF465228BD85A0095B193 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B2FF464228BD85A0095B193 /* Assets.xcassets */; };
 		4B2FF468228BD85A0095B193 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B2FF466228BD85A0095B193 /* LaunchScreen.storyboard */; };
 		4B702652228BF895007DC342 /* LearnerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B702651228BF895007DC342 /* LearnerModel.swift */; };
+		4B702654228C0318007DC342 /* FacilitatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B702653228C0318007DC342 /* FacilitatorModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4B2FF467228BD85A0095B193 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4B2FF469228BD85A0095B193 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4B702651228BF895007DC342 /* LearnerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnerModel.swift; sourceTree = "<group>"; };
+		4B702653228C0318007DC342 /* FacilitatorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacilitatorModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				4B2FF466228BD85A0095B193 /* LaunchScreen.storyboard */,
 				4B2FF469228BD85A0095B193 /* Info.plist */,
 				4B702651228BF895007DC342 /* LearnerModel.swift */,
+				4B702653228C0318007DC342 /* FacilitatorModel.swift */,
 			);
 			path = LearnerOOP;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B702654228C0318007DC342 /* FacilitatorModel.swift in Sources */,
 				4B2FF460228BD85A0095B193 /* ViewController.swift in Sources */,
 				4B702652228BF895007DC342 /* LearnerModel.swift in Sources */,
 				4B2FF45E228BD85A0095B193 /* AppDelegate.swift in Sources */,
